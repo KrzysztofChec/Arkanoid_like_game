@@ -1,6 +1,11 @@
 ### Breakout to klasyczna gra zręcznościowa, w której gracz kontroluje platformę do odbijania piłki, niszcząc kolejne bloki na ekranie, aby zdobywać punkty i przechodzić poziomy. Celem jest utrzymanie piłki w grze, unikając, by spadła poniżej platformy. Projekt swtorzony przy użyciu biblioteki JavaFX
 
 
+
+https://github.com/KrzysztofChec/Breakout_game/assets/126595487/d29569c5-c5cb-4621-972d-9069d1557667
+
+
+
 ## Ball.java
 Klasa `Ball` reprezentuje piłkę w grze breakout. Jest odpowiedzialna za zarządzanie jej ruchem, odbiciami od paletki i cegieł, oraz sprawdzanie kolizji z innymi elementami na planszy. Wykorzystuje bibliotekę JavaFX do renderowania grafiki i obsługi interakcji z użytkownikiem.
 
